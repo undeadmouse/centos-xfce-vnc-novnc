@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-desktop" version="1.0">
+  <property name="backdrop" type="empty">
+    <property name="screen0" type="empty">
+      <property name="monitor0" type="empty">
+        <property name="image-path" type="string" value="/home/unigeo/.config/xfce4/desktop/backdrop.list"/>
+        <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-blue.jpg"/>
+        <property name="last-single-image" type="string" value="/usr/share/backgrounds/xfce/xfce-blue.jpg"/>
+        <property name="last-image-list" type="string" value="/home/unigeo/.config/xfce4/desktop/backdrop.list"/>
+        <property name="color1" type="array">
+          <value type="uint" value="2924"/>
+          <value type="uint" value="15846"/>
+          <value type="uint" value="32743"/>
+          <value type="uint" value="65535"/>
+        </property>
+      </property>
+    </property>
+  </property>
+  <property name="desktop-icons" type="empty">
+    <property name="icon-size" type="uint" value="32"/>
+  </property>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="463"/>
+    <property name="window-height" type="int" value="474"/>
+  </property>
+</channel>
