@@ -2,11 +2,11 @@ FROM unigeocloud/centos-xfce:latest
 MAINTAINER UniGeoCloud "sgi@unigeocloud.com"
 
 ENV USER unigeo
-ENV USER_HOME /home/unigeo
+ENV USER_HOME /home/fhtz
 ENV DISPLAY :1
 ENV VNC_COL_DEPTH 24
 ENV VNC_RESOLUTION 1280x720
-ENV VNC_PW abcABC123
+ENV VNC_PW fhtz2017
 ENV VNC_PORT 5901
 ENV NOVNC_PORT 80
 
